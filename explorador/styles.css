@@ -1,0 +1,69 @@
+body{
+	font-family: Helvetica, Arial, sans-serif;
+}
+.titulo{
+	width: 100%;
+	height: : 20px;
+	background-color: #004;
+	color: white;
+	font-style: bold;
+}
+.uno{
+	display: inline-block;
+	width: 25%;
+	margin: 0;
+	border-right: .5px solid white;
+}
+.dos{
+	display: inline-block;
+	width: 25%;
+	margin: 0;
+	border-right: .5px solid white;
+}
+.tres{
+	display: inline-block;
+	width: 25%;
+	margin: 0;
+	border-right: .5px solid white;
+}
+.cuatro{
+	display: inline-block;
+	width: 25;
+    margin: 0;
+    }
+.cuerpo{
+	width: 100%;
+	height: : 300px;
+	font-style: bold;
+	font-size: 15px;
+	font-weight: bold;
+}
+.culture{
+	display: inline-block;
+	width: 25%;
+    margin: 0;
+}
+.essays{
+	display: inline-block;
+	width: 25%;
+}
+.humor{
+	display: inline-block;
+	width: 25%;
+   
+}
+.profiles{
+	display: inline-block;
+	width: 25;
+   
+}
+.subtitulo{
+	color: black;
+}
+.facilitador{
+	color: gray;
+	
+}
+.liga{
+	color: #DE5233;
+}

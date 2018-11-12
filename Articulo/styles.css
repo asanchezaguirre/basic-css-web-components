@@ -1,0 +1,27 @@
+body{
+	font-family: Geneva, Ubuntu, sans-serf;
+}
+.conteiner{
+	background-color: #fbf9f1;
+}
+.mark{
+	font-family: Georgia, Palatino, serif;
+	display: inline-block;
+}
+.monotype{
+	font-family: Georgia, Palatino, serif;
+	color: white;
+	background-color: black;
+	display: inline-block;
+	padding-top: ;
+}
+.saludo{
+    font-family: Georgia, Palatino, serif;
+}
+.texto{
+	line-height: 1.25;
+}
+a{
+	text-decoration: none;
+	color: #77A8D2;
+}  
